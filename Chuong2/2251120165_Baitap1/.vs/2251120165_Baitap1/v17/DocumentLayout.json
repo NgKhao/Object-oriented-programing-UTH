@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong2\\2251120165_Baitap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6396042E-14D2-459B-AF66-4C8F6887380F}|2251120165_Baitap1\\2251120165_Baitap1.vcxproj|K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong2\\2251120165_Baitap1\\2251120165_Baitap1\\2251120165_Baitap1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6396042E-14D2-459B-AF66-4C8F6887380F}|2251120165_Baitap1\\2251120165_Baitap1.vcxproj|solutionrelative:2251120165_Baitap1\\2251120165_Baitap1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6396042E-14D2-459B-AF66-4C8F6887380F}|2251120165_Baitap1\\2251120165_Baitap1.vcxproj|K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong2\\2251120165_Baitap1\\2251120165_Baitap1\\Data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6396042E-14D2-459B-AF66-4C8F6887380F}|2251120165_Baitap1\\2251120165_Baitap1.vcxproj|solutionrelative:2251120165_Baitap1\\Data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6396042E-14D2-459B-AF66-4C8F6887380F}|2251120165_Baitap1\\2251120165_Baitap1.vcxproj|K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong2\\2251120165_Baitap1\\2251120165_Baitap1\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6396042E-14D2-459B-AF66-4C8F6887380F}|2251120165_Baitap1\\2251120165_Baitap1.vcxproj|solutionrelative:2251120165_Baitap1\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.txt",
+              "DocumentMoniker": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong2\\2251120165_Baitap1\\2251120165_Baitap1\\Data.txt",
+              "RelativeDocumentMoniker": "2251120165_Baitap1\\Data.txt",
+              "ToolTip": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong2\\2251120165_Baitap1\\2251120165_Baitap1\\Data.txt",
+              "RelativeToolTip": "2251120165_Baitap1\\Data.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-11T15:09:20.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Text.txt",
+              "DocumentMoniker": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong2\\2251120165_Baitap1\\2251120165_Baitap1\\Text.txt",
+              "RelativeDocumentMoniker": "2251120165_Baitap1\\Text.txt",
+              "ToolTip": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong2\\2251120165_Baitap1\\2251120165_Baitap1\\Text.txt",
+              "RelativeToolTip": "2251120165_Baitap1\\Text.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-12-31T13:20:26.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2251120165_Baitap1.cpp",
+              "DocumentMoniker": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong2\\2251120165_Baitap1\\2251120165_Baitap1\\2251120165_Baitap1.cpp",
+              "RelativeDocumentMoniker": "2251120165_Baitap1\\2251120165_Baitap1.cpp",
+              "ToolTip": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong2\\2251120165_Baitap1\\2251120165_Baitap1\\2251120165_Baitap1.cpp",
+              "RelativeToolTip": "2251120165_Baitap1\\2251120165_Baitap1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-10-03T17:32:38.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
