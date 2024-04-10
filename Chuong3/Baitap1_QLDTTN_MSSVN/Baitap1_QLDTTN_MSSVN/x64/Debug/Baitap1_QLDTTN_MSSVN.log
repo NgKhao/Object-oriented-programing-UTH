@@ -1,0 +1,4 @@
+﻿  Dethi.cpp
+K:\DuLieuHocTap\HocKi1Nam2\OOP\Chuong3\Baitap1_QLDTTN_MSSVN\Baitap1_QLDTTN_MSSVN\Dethi.cpp(77,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+K:\DuLieuHocTap\HocKi1Nam2\OOP\Chuong3\Baitap1_QLDTTN_MSSVN\Baitap1_QLDTTN_MSSVN\Dethi.cpp(91,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Baitap1_QLDTTN_MSSVN.vcxproj -> K:\DuLieuHocTap\HocKi1Nam2\OOP\Chuong3\Baitap1_QLDTTN_MSSVN\x64\Debug\Baitap1_QLDTTN_MSSVN.exe

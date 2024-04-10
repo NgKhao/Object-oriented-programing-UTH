@@ -1,0 +1,4 @@
+﻿  SortPoint.cpp
+C:\Users\Win\source\repos\SortPoint\SortPoint\SortPoint.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Win\source\repos\SortPoint\SortPoint\SortPoint.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  SortPoint.vcxproj -> C:\Users\Win\source\repos\SortPoint\Debug\SortPoint.exe

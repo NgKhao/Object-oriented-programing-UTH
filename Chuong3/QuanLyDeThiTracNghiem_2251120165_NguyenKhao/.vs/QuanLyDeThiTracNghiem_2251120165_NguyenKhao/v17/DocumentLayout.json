@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|solutionrelative:QuanLyDeThiTracNghiem_2251120165_NguyenKhao.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\DeThi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|solutionrelative:DeThi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|solutionrelative:Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\INPUT.TTN||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|solutionrelative:INPUT.TTN||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\OUTPUT.TTN||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|solutionrelative:OUTPUT.TTN||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\CauhoiTN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D7FDFA6-960A-424C-A606-D41BA36063DB}|QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj|solutionrelative:CauhoiTN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\Menu.cpp",
+              "RelativeDocumentMoniker": "Menu.cpp",
+              "ToolTip": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\Menu.cpp",
+              "RelativeToolTip": "Menu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-22T15:17:52.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyDeThiTracNghiem_2251120165_NguyenKhao.cpp",
+              "DocumentMoniker": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao.cpp",
+              "RelativeDocumentMoniker": "QuanLyDeThiTracNghiem_2251120165_NguyenKhao.cpp",
+              "ToolTip": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao.cpp",
+              "RelativeToolTip": "QuanLyDeThiTracNghiem_2251120165_NguyenKhao.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-22T15:17:50.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INPUT.TTN",
+              "DocumentMoniker": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\INPUT.TTN",
+              "RelativeDocumentMoniker": "INPUT.TTN",
+              "ToolTip": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\INPUT.TTN",
+              "RelativeToolTip": "INPUT.TTN",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-01-22T15:17:47.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OUTPUT.TTN",
+              "DocumentMoniker": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\OUTPUT.TTN",
+              "RelativeDocumentMoniker": "OUTPUT.TTN",
+              "ToolTip": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\OUTPUT.TTN",
+              "RelativeToolTip": "OUTPUT.TTN",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-01-22T15:17:46.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeThi.cpp",
+              "DocumentMoniker": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\DeThi.cpp",
+              "RelativeDocumentMoniker": "DeThi.cpp",
+              "ToolTip": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\DeThi.cpp",
+              "RelativeToolTip": "DeThi.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-16T14:25:58.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CauhoiTN.cpp",
+              "DocumentMoniker": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\CauhoiTN.cpp",
+              "RelativeDocumentMoniker": "CauhoiTN.cpp",
+              "ToolTip": "K:\\DuLieuHocTap\\HocKi1Nam2\\OOP\\Chuong3\\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\\CauhoiTN.cpp",
+              "RelativeToolTip": "CauhoiTN.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-16T14:25:48.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

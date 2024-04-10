@@ -1,0 +1,8 @@
+﻿  CauhoiTN.cpp
+  DeThi.cpp
+K:\DuLieuHocTap\HocKi1Nam2\OOP\Chuong3\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\DeThi.cpp(76,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+K:\DuLieuHocTap\HocKi1Nam2\OOP\Chuong3\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\DeThi.cpp(93,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Menu.cpp
+  QuanLyDeThiTracNghiem_2251120165_NguyenKhao.cpp
+  Generating Code...
+  QuanLyDeThiTracNghiem_2251120165_NguyenKhao.vcxproj -> K:\DuLieuHocTap\HocKi1Nam2\OOP\Chuong3\QuanLyDeThiTracNghiem_2251120165_NguyenKhao\x64\Debug\QuanLyDeThiTracNghiem_2251120165_NguyenKhao.exe
